@@ -1,0 +1,14 @@
+        
+           
+                                            EMS BACKEND
+                                    ------------------------------
+
+    
+    1. create a new database in mongodb compass and create a new collection named as employees
+    2. create a new folder named as ems-BACKEND
+    3. create packag.json file - npm init -y
+    4. install express,cors,mongoose
+    5. create index.js
+    6. create a new folder named as services
+    7. create a db.js file inside services folder(for connecting node and mongodb)
+    8. create a db.js file inside the services folder(for implenentiong all the logics)
